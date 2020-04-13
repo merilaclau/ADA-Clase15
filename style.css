@@ -65,11 +65,23 @@ header {
   margin-top: 15px;
 }
 
+.location-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.icon-location {
+  width: 14px;
+  height: 14px;
+  margin-right: 4px;
+}
+
 .label-location {
   font-family: 'Proxima Nova';
   font-weight: bold;
   font-size: 12px;
   color: rgb(189, 196, 207);
+  min-width: 75px;
 }
 
 .input-location {
