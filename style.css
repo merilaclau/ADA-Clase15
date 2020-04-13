@@ -21,3 +21,10 @@
   font-weight: normal;
   src: url('fonts/Proxima\ Nova\ Extrabold.otf');
 }
+
+
+.hero {
+  height: 300px;
+  width: 100%;
+  background: #fbfafd;
+}
